@@ -1,6 +1,6 @@
 DIMAS RESOLUSI
 -Belajar Bootstrap 2x 1 minggu
--Hari Rabu dan Minggu
 -Java Script setiap pagi
 -Jadi Lebih Aktif
 -Shalat 5 Waktu
+-Belajar bootsrap rabu dan minggu
