@@ -1,6 +1,11 @@
 RENCANA KONTEN DIMAS AJI WICAKSONO
 
 -JAVASCRIPT
+-react js
+-belajar ui
+-belajar ux
+-gasppol ayo
+-anular
 -jadi orang yang berguna
 -CSS FRAMEWORK
 -INTERVIEW
