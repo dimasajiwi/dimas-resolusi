@@ -7,7 +7,6 @@ RENCANA KONTEN DIMAS AJI WICAKSONO
 -gasppol ayo
 -anular
 -jadi orang yang berguna
--ai
 -CSS FRAMEWORK
 -INTERVIEW
 -KERJA
@@ -15,3 +14,4 @@ RENCANA KONTEN DIMAS AJI WICAKSONO
 -bahagia
 -belajar bootstrap
 -membuat website
+-pasti saya bisa
