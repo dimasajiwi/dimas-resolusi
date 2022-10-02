@@ -12,3 +12,4 @@ RENCANA KONTEN DIMAS AJI WICAKSONO
 -KERJA
 -nikah
 -bahagia
+-belajar bootstrap
