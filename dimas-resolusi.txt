@@ -4,3 +4,6 @@ DIMAS RESOLUSI
 -Jadi Lebih Aktif
 -Shalat 5 Waktu
 -Belajar bootsrap rabu dan minggu
+-css framework
+-js framework
+-gas yuk
