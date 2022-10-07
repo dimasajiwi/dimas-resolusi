@@ -5,6 +5,8 @@ DIMAS RESOLUSI
 -Shalat 5 Waktu
 -itu harus
 -Belajar bootsrap rabu dan minggu
+-css framework
+-js framework
 -menjadi pemenang
 -membahagiakn orang tua
 -aamiin
